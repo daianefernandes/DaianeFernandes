@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif" width="55px">
+<img src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif" width="255px">
 ### 👋 Olá, eu me chamo Daiane e sou desenvolvedora front-end.
 
 - 👩‍💻 Eu estou estudando Sistemas para Internet na FIAP;
