@@ -35,5 +35,7 @@ Tecnologias e ferramentas que utilizo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
+![DaianeFernandes's GitHub stats]https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=react
+
 ## 💻 Onde me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianefernandes)
