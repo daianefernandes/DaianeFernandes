@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif" width="255px">
 
-## 👋 Olá, eu me chamo Daiane e sou desenvolvedora front-end.
+## 👋 Olá!
 
-- 👩‍💻 Eu estou estudando Sistemas para Internet na FIAP;
+- 👩‍💻 Sou estudante de Sistemas para Internet na FIAP;
 - 👩🏼‍🎨 Possuo habilidade em design/prototipação utilizando Figma e Illustrator;
 
 
