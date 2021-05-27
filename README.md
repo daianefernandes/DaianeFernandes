@@ -34,8 +34,14 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula)
+<div>
+   <a href="https://github.com/daianefernandes>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## 💻 Onde me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianefernandes)
+<div>
+   <a href="https://www.linkedin.com/in/daianefernandes/">
+   <img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+<div>
