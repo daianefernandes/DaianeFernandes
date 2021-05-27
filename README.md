@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 <div>
-   <a href="https://github.com/daianefernandes>
+   <a href="https://github.com/daianefernandes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+   <a href="https://github.com/daianefernandes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
