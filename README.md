@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif" width="255px">
 
-## 👋 Olá!
+## 👋 Olá, eu sou a Daiane Fernandes
 
 - 👩‍💻 Sou estudante de Sistemas para Internet na FIAP;
 - 👩🏼‍🎨 Possuo habilidade em design/prototipação utilizando Figma e Illustrator;
 
 
-## Tecnologias
-Tecnologias e ferramentas que utilizo
+## ✨ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,7 +34,8 @@ Tecnologias e ferramentas que utilizo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-![DaianeFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula)
 
 ## 💻 Onde me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianefernandes)
