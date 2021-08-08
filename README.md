@@ -1,25 +1,21 @@
-<!--
-**daianefernandes/DaianeFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif" width="255px">
-
 ## 👋 Olá, eu sou a Daiane Fernandes
 
-- 👩‍💻 Sou estudante de Sistemas para Internet na FIAP;
-- 👩🏼‍🎨 Possuo habilidade em design/prototipação utilizando Figma e Illustrator;
+- 👩‍💻 Cursando Sistemas para Internet na FIAP;
+- 🔭 Trabalhando com desenvolvimento Front-End;
+- 🌱 Estudando Typescript;
+- 📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
+- 😄 Pronouns: ela/dela;
 
+<hr>
+
+<div>
+   <a href="https://github.com/daianefernandes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/daianefernandes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<hr>
 
 ## ✨ Tecnologias & Frameworks
 
@@ -31,12 +27,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div>
-   <a href="https://github.com/daianefernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <a href="https://github.com/daianefernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<hr>
 
 ## 💻 Onde me encontrar
 <div>
