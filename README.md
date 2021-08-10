@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou a Daiane Fernandes
 
-  👩‍💻 Cursando Sistemas para Internet na FIAP;
-  🔭 Trabalhando com desenvolvimento Front-End;
-  🌱 Estudando Typescript;
-  📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
-  😄 Pronouns: ela/dela;
+- 👩‍💻 Cursando Sistemas para Internet na FIAP;
+- 🔭 Trabalhando com desenvolvimento Front-End;
+- 🌱 Estudando Typescript;
+- 📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
+- 😄 Pronouns: ela/dela;
 
 ##
 <div>
