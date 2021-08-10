@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou a Daiane Fernandes
 
-- 👩‍💻 Cursando Sistemas para Internet na FIAP;
-- 🔭 Trabalhando com desenvolvimento Front-End;
-- 🌱 Estudando Typescript;
-- 📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
-- 😄 Pronouns: ela/dela;
+  👩‍💻 Cursando Sistemas para Internet na FIAP;
+  🔭 Trabalhando com desenvolvimento Front-End;
+  🌱 Estudando Typescript;
+  📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
+  😄 Pronouns: ela/dela;
 
 ##
 <div>
@@ -35,8 +35,3 @@
    <a href="https://www.linkedin.com/in/daianefernandes/">
    <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
 <div>
-
-      
-##
-      
-![Snake animation](https://github.com/daianefernandes/daianefernandes/blob/output/github-contribution-grid-snake.svg)
