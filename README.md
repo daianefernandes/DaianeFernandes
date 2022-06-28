@@ -36,5 +36,3 @@ Entusiasta da tecnologia e apaixonada pelo desenvolvimento front-end | Foco em R
    <a href="https://www.linkedin.com/in/daianefernandes/">
    <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
 <div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Vieira-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-danilo/)](https://www.linkedin.com/in/vieira-danilo/)
