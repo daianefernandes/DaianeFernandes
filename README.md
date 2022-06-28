@@ -2,10 +2,10 @@
 
 Entusiasta da tecnologia e apaixonada pelo desenvolvimento front-end | Foco em ReactJs
 
-😄 Pronouns: ela/dela;
-👩‍💻 Cursando Sistemas para Internet na FIAP;
-🔭 Trabalhando com desenvolvimento front-end;
-📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
+😄 Pronouns: ela/dela;</br>
+👩‍💻 Cursando Sistemas para Internet na FIAP;</br>
+🔭 Trabalhando com desenvolvimento front-end;</br>
+📫 Fale comigo através do e-mail: daianes.contato@gmail.com;</br>
 
 ##
 <div>
