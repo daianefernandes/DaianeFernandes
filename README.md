@@ -1,10 +1,11 @@
-## 👋 Olá, eu sou a Daiane Fernandes
+## 👋 Olá!
 
-- 👩‍💻 Cursando Sistemas para Internet na FIAP;
-- 🔭 Trabalhando com desenvolvimento Front-End;
-- 🌱 Estudando Typescript;
-- 📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
-- 😄 Pronouns: ela/dela;
+Entusiasta da tecnologia e apaixonada pelo desenvolvimento front-end | Foco em ReactJs
+
+😄 Pronouns: ela/dela;
+👩‍💻 Cursando Sistemas para Internet na FIAP;
+🔭 Trabalhando com desenvolvimento front-end;
+📫 Fale comigo através do e-mail: daianes.contato@gmail.com;
 
 ##
 <div>
@@ -14,7 +15,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## ✨ Tecnologias & Frameworks
+## ✨ Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,3 +36,5 @@
    <a href="https://www.linkedin.com/in/daianefernandes/">
    <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
 <div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Vieira-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-danilo/)](https://www.linkedin.com/in/vieira-danilo/)
