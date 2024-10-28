@@ -1,42 +1,30 @@
-## 👋 Olá!
 
-Entusiasta da tecnologia e apaixonada pelo desenvolvimento front-end | Foco em ReactJs
+## Hello 🌍!
 
-😄 Pronouns: ela/dela;</br>
-👩‍💻 Cursando Sistemas para Internet na FIAP;</br>
-🔭 Trabalhando com desenvolvimento front-end;</br>
-📫 Fale comigo através do e-mail: daianes.contato@gmail.com;</br>
+🇧🇷 Sou desenvolvedora FrontEnd com foco em React com TypeScript. Em 2020, fiz uma grande mudança na carreira, saindo da área de negócios para o desenvolvimento de software e foi uma jornada incrível! Sou formada em Sistemas para Internet e tenho MBA em Gestão de TI.
+🇺🇸 I'm a FrontEnd Developer focused on React with TypeScript. In 2020, I made a big career shift from business to software development, and it’s been an incredible journey! I hold a degree in Internet Systems and an MBA in IT Management.
 
-##
+📍 Live in São Paulo, Brazil <br>
+👩🏼‍💻 Lifelong learner <br>
+🍿 In my free time I love watching series and films, and reading books <br>
+🏃🏻‍♀️ Corredora amadora <br>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bitbucket,bootstrap,docker,figma,git,github,mysql,nodejs,postman,react,redux,sass,styledcomponents,tailwind)](https://skillicons.dev)
+
+### Metrics
+🎯 Goal: #AWSDeveloperAssociateCertification
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daianefernandes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+ <div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
 <div>
-   <a href="https://github.com/daianefernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <a href="https://github.com/daianefernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianefernandes&layout=compact&langs_count=16&theme=dracula"/>
+
+### Where to find me
+<div> 
+  <a href = "mailto:daianedsdaia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daianefernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## ✨ Skills
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="yarn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
-  <img align="center" alt="bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-<div><br>
-   
-## 💻 Onde me encontrar
-   
-<div style="display: inline_block"><br>
-   <a href="https://www.linkedin.com/in/daianefernandes/">
-   <img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-<div>
