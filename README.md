@@ -1,8 +1,8 @@
 
 ## Hello 🌍!
 
-🇧🇷 Sou desenvolvedora FrontEnd com foco em React com TypeScript. Em 2020, fiz uma grande mudança na carreira, saindo da área de negócios para o desenvolvimento de software e foi uma jornada incrível! Sou formada em Sistemas para Internet e tenho MBA em Gestão de TI.
-🇺🇸 I'm a FrontEnd Developer focused on React with TypeScript. In 2020, I made a big career shift from business to software development, and it’s been an incredible journey! I hold a degree in Internet Systems and an MBA in IT Management.
+🇧🇷 Sou desenvolvedora FrontEnd com foco em React com TypeScript. Em 2020, fiz uma grande mudança na carreira, saindo da área de negócios para o desenvolvimento de software e foi uma jornada incrível! Sou formada em Sistemas para Internet e tenho MBA em Gestão de TI. <br>
+🇺🇸 I'm a FrontEnd Developer focused on React with TypeScript. In 2020, I made a big career shift from business to software development, and it’s been an incredible journey! I hold a degree in Internet Systems and an MBA in IT Management.<br>
 
 📍 Live in São Paulo, Brazil <br>
 👩🏼‍💻 Lifelong learner <br>
