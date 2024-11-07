@@ -16,7 +16,7 @@
 ### Metrics
 🎯 Goal: #AWSDeveloperAssociateCertification
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=daianefernandes&theme=tokyonight&hide_border=true)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daianefernandes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
  <div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianefernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
